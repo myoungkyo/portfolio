@@ -133,7 +133,7 @@ a.common_btn{
 #container section .inner  h2{
   font-size: 45px;
   line-height: 60px;
-  color: #333333;
+  color: #999999;
 }
 
 /*다섯번째 섹션만 subtitle이 없으므로 1~4section과 다르기때문에 따로 줘야됨(지금은 맞게 있어서 필요X)
